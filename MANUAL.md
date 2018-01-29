@@ -7,11 +7,12 @@
 
 ## Step2 :rocket: Install MetaMask
 -	Enter Website https://metamask.io/
- ![metamask1](images/metamask1.png)
+![metamask1](images/metamask1.png)
 -	In Chrome, add MetaMask to Chrome Extension
 -	You will find MetaMask icon at top-right corner
- ![metamask2](images/metamask2.png)
- ![metamask3](images/metamask3.png)
+![metamask2](images/metamask2.png)
+ 
+<img src ="images/metamask3.png" width="300">
  
  
 ## Step 3 :rocket:    Create a Wallet via MetaMask
