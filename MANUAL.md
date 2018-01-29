@@ -12,15 +12,16 @@
 -	You will find MetaMask icon at top-right corner
 ![metamask2](images/metamask2.png)
  
-<img src ="images/metamask3.png" width="300">
+<img src ="images/metamask3.png" width="400">
  
  
 ## Step 3 :rocket:    Create a Wallet via MetaMask
 -	Create a password in order to create your wallet
 -	**[Important]** Remember 12 seed phrases and keep it save
--	Login and Switch to Rinkeby Test Net  
- ![metamask4](images/metamask4.png)  
- ![metamask5](images/metamask5.png)
+-	Login and Switch to Rinkeby Test Net
+
+<img src ="images/metamask4.png" width="400"> <img src ="images/metamask5.png" width="400">
+
 
 
 ## Step 4 :rocket:   Apply for Funds to your Wallet
