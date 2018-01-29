@@ -1,6 +1,5 @@
 # WhitePaper of HeroTavern
 <br />
-<br />
 
 ## Content ##############
 * [Introduction](#introduction)
@@ -28,7 +27,7 @@
   * [Auction](#auction)
   * [Hire](#hire)
 * [Hero Factory](#hero-factory)
-  * [Hero Recast](#hero-recast)
+  * [Hero Recast](#hero-recast)
   * [Hero Dissolve](#hero-dissolve)
 * [Battle Mode](#battle-mode)
   * [Team Members](#team-members)
@@ -53,8 +52,6 @@
 <br />
 
 ## Hero System ########################
-<br />
-
 ### Hero Property
 Heroes’ visible properties include Heroes’ name, occupation, Exp, levels and combat power. At the same time, there are two conditional properties “if Ready” and “is in a Team”.
 <br />
@@ -82,8 +79,6 @@ Every Hero has 13 equipment slots. Details please check [appendix II](#ii).
 <br />
 
 ## Monster System #######################
-<br />
-
 ### Monster Property
 Monster Properties include name, geno, star rate, ideal combat power required and attributes. When a monster is conquered, it will show its conqueror.
 <br />
@@ -103,8 +98,6 @@ Monsters have higher star rates and levels means that better trophies, more Exp 
 <br />
 
 ## Items System #######################
-<br />
-
 ### Item Property
 Items’ Properties include name, kind, rarity, power increment and special attributes.
 <br />
@@ -132,8 +125,6 @@ When Heroes equip items, the items’ Id will be recorded in the hero equipment 
 <br />
 
 ## Hero Market #######################
-<br />
-
 ### Sales
 There are two parts of Sales in Market, Hero Sales and Item Sales. When Players start Sales, they need input starting price, buy now price and duration of the Sale. Buyers have two way to purchase, bid and buy. If bidding, winning bidder need to wait until the Sale is over to claim the Hero or the Item. When Heroes equip items, they cannot be traded.
 <br />
@@ -149,8 +140,6 @@ There is another section in Market- Hire. Player can put leisure Heroes on the H
 <br />
 
 ## Hero Factory #######################
-<br />
-
 ### Hero Recast
 Player can use a Hero and up to 3 items to recast a new Hero. After recasting, all materials are gone and Player will get a new Hero.
 <br />
@@ -162,8 +151,6 @@ Player can dissolve a hero, gaining 1-3 items and a bottle of Exp. The amount Ex
 <br />
 
 ## Battle Mode #######################
-<br />
-
 ### Team Members
 There is at least one hero in a team. The maximum is five heroes.
 <br />
@@ -175,8 +162,6 @@ After getting the approval in the Auction, Player can send maximum certain amoun
 <br />
 
 ## Treasure Hunt #######################
-<br />
-
 ### Treasure Map
 There are two visible attributes of treasure maps, serial number and Explore Length.
 <br />
@@ -192,8 +177,6 @@ There could be or could not be a treasure; There could be a lot or a little of t
 <br />
 
 ## Future Development #######################
-<br />
-
 ### Tribe Cultivation
 After Heroes, we will release Tribe Cultivation Module. Players can build their own ligeances, and form their own armies. Also, it will connect to Hero Tavern Module, inviting heroes to join the Tribe Wars.
 
@@ -201,8 +184,6 @@ After Heroes, we will release Tribe Cultivation Module. Players can build their 
 <br />
 
 ## Appendix #######################
-<br />
-
 ### I
 **Occupation**  
 1. "Assassin"   
