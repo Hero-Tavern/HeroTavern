@@ -1,0 +1,1 @@
+# WhitePaper of HeroTavern
