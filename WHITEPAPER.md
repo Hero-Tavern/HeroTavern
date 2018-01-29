@@ -255,11 +255,11 @@ After Heroes, we will release Tribe Cultivation Module. Players can build their 
 ### III
 **Item Rarity**  
 1. "Damaged"  
-   	2. "Common"  
-   	3. "Unusual"  
-   	4. "Rare"  
-  	5. "Epic"  
-   	6. "Legendary"  
-  	7. "Unique"  
+2. "Common"  
+3. "Unusual"  
+4. "Rare"  
+5. "Epic"  
+6. "Legendary"  
+7. "Unique"  
 
 ---
